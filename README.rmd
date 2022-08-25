@@ -1,0 +1,15 @@
+---
+title: "Programming Practice Solutions"
+author: "David Wong"
+date: "2022-08-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Objective
+
+This is meant for daily practice, and these solutions to [interviewbit](https://www.interviewbit.com/courses/programming/) problems are categorized according to the language used.
+
